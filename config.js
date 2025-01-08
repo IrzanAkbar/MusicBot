@@ -1,12 +1,12 @@
 module.exports = {
-    TOKEN: "",
-    ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
-    botInvite: "", //write your discord bot invite.
-    supportServer: "", //write your discord bot support server invite.
-    mongodbURL: "", //write your mongodb url.
-    status: '❤️ codeshare.me',
+    TOKEN: "MTMyNTc4NTE2OTAzNDA4ODQ2OA.GYgrv-.tAbNDKOPW7ZCPY57Ymr3xSTsABS2CN5fzrEihk",
+    ownerID: ["780349670509248562"], //write your discord user id. example: ["id"] or ["id1","id2"]
+    botInvite: "https://discord.com/oauth2/authorize?client_id=1325785169034088468&response_type=code&redirect_uri=https%3A%2F%2Fdiscordapp.com%2Foauth2%2Fauthorize%3F%26client_id%3D1325785169034088468%26scope%3Dbot&integration_type=0&scope=identify+guilds+applications.commands", //write your discord bot invite.
+    supportServer: "yes", //write your discord bot support server invite.
+    mongodbURL: "mongodb+srv://Zann:cKM64lhUbwA5CMDj@cluster0.vkr0w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", //write your mongodb url.
+    status: '❤️ irzan.us',
     commandsDir: './commands', //Please don't touch
-    language: "en", //ar, de, en, es, fr, id, it, ja, nl, pt, ru, tr, zh_TW
+    language: "id", //ar, de, en, es, fr, id, it, ja, nl, pt, ru, tr, zh_TW
     embedColor: "ffa954", //hex color code
     errorLog: "", //write your discord error log channel id.
 
@@ -40,7 +40,7 @@ module.exports = {
 
     sponsor: {
         status: true, //true or false
-        url: "https://codeshare.me", //write your discord sponsor url.
+        url: "https://irzan.us", //write your discord sponsor url.
     },
 
 
